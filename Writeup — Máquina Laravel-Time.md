@@ -2,7 +2,7 @@
 
 > **Dificuldade:** Médio | **SO:** Linux | **Tags:** `SQLi Time-Based` · `LOAD_FILE` · `SMB` · `Crontab PrivEsc`
 
----s
+---
 
 ## 1. Sumário Executivo
 
