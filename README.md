@@ -21,9 +21,11 @@ Centralizar técnicas, payloads e metodologias utilizadas em explorações do mu
 
 | Máquina / Alvo | Foco Principal | Status | Link |
 | :--- | :--- | :---: | :---: |
-| **Laravel-Time** | RCE, Abuso de Framework Laravel | 🟢 Pwned | [Acessar](./Writeup%20—%20Máquina%20Laravel-Time.md) |
-
-*(A tabela será atualizada à medida que novos alvos forem explorados).*
+| **Retro** | OTP Bypass, IDOR, Command Injection, ROM Script Hijacking | 🟢 Pwned | [Acessar](./Writeup%20—%20Máquina%20Retro.md) |
+| **Poisoning** | LFI, Log Poisoning, RCE, cap_setuid PrivEsc | 🟢 Pwned | [Acessar](./Writeup%20—%20Máquina%20Poisoning.md) |
+| **Lion** | SQLi UNION-Based, Webshell via INTO OUTFILE, Crontab PrivEsc | 🟢 Pwned | [Acessar](./Writeup%20—%20Máquina%20Lion.md) |
+| **Calc** | Command Injection (PHP eval), Python Library Hijacking | 🟢 Pwned | [Acessar](./Writeup%20—%20Máquina%20Calc.md) |
+| **Laravel-Time** | SQLi Time-Based, LOAD_FILE, SMB, Crontab PrivEsc | 🟢 Pwned | [Acessar](./Writeup%20—%20Máquina%20Laravel-Time.md) |
 
 ## 🛠️ Arsenal & Stack Tática
 
