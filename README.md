@@ -21,6 +21,7 @@ Centralizar técnicas, payloads e metodologias utilizadas em explorações do mu
 
 | Máquina / Alvo | Foco Principal | Status | Link |
 | :--- | :--- | :---: | :---: |
+| **Cyber-News** | BOPLA, Mass Assignment, BOLA, IDOR, WebDAV RCE, SSRF docker.sock, Container Escape | 🟢 Pwned | [Acessar](./Writeup%20—%20Máquina%20Cyber-News.md) |
 | **Retro** | OTP Bypass, IDOR, Command Injection, ROM Script Hijacking | 🟢 Pwned | [Acessar](./Writeup%20—%20Máquina%20Retro.md) |
 | **Poisoning** | LFI, Log Poisoning, RCE, cap_setuid PrivEsc | 🟢 Pwned | [Acessar](./Writeup%20—%20Máquina%20Poisoning.md) |
 | **Lion** | SQLi UNION-Based, Webshell via INTO OUTFILE, Crontab PrivEsc | 🟢 Pwned | [Acessar](./Writeup%20—%20Máquina%20Lion.md) |
